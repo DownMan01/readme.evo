@@ -5,7 +5,7 @@
 
 ## **📋 EXECUTIVE SUMMARY**
 
-**Project Name:** Evotar (Every Vote Matters)  
+**Project Name:** Evotar (An Online Voting Web-Based System for Saint Joseph College of Sindangan Incorporated (SJCSI))  
 **Institution:** Saint Joseph College of Sindangan, Inc. (SJCSI)  
 **Project Type:** Web-Based Digital Voting System  
 **Technology Stack:** React, TypeScript, Supabase, Vite  
